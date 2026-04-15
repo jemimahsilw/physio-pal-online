@@ -1,14 +1,7 @@
-# Welcome to your physiotherapy online project
+# physiotherapy online project
+This is a physiotherapy application connecting  doctors to their patients. the doctor can track their patients progress and communicate through chats and video conference
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/2e8ec617-9a42-43b8-b4ff-f1182db79f71
-
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/2e8ec617-9a42-43b8-b4ff-f1182db79f71) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
@@ -35,10 +28,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2e8ec617-9a42-43b8-b4ff-f1182db79f71) and click on Share -> Publish.
-
-
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## deployed using lovable: https://physio-pal-online.lovable.app 
